@@ -5,6 +5,10 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+    fontFamily: {
+      'mont': ['Roboto', 'sans-serif'],
+    },
+
     extend: {
       colors: {
         darkest: '#0b2d3b',
