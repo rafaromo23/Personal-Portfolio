@@ -78,7 +78,7 @@ const App = () => (
 
           <section className="flex flex-col xl:flex-row gap-4 justify-center pt-12"> 
             <button className="p-5"><a 
-              href="/public/RafaelRomo_Resume.pdf" 
+              href="https://github.com/rafaromo23/YouTubeToMP3" 
               target="_blank" 
               className="inline-block bg-gradient-to-r from-darker to-lightest text-darkest py-3 px-8 rounded-xl text-base font-semibold shadow-xl transition-all duration-300 ease-in-out transform hover:scale-105 hover:shadow-2xl hover:from-darker hover:to-lighter">GitHub</a></button>
           </section>
