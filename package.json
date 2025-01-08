@@ -1,7 +1,6 @@
 {
   "name": "personal-portfolio-website",
-  "homepage": "https://rafaromo23.github.io/",
-  "private": true,
+  "homepage": "https://rafaromo23.github.io/Personal-Portfolio/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
