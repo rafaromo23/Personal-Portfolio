@@ -35,7 +35,7 @@ const App = () => (
       {/* Right side */}
       <section className="flex w-full md:w-1/2 items-center justify-center bg-darkest">
         <header></header>
-        <img src="/rafaromo23.github.io/public/LinkedInPicture.JPG" alt="Profile Picture" className="w-1/4 md:w-1/2 rounded-lg border-8 border-light shadow-lg transform scale-110"></img>
+        <img src="/public/LinkedInPicture.JPG" alt="Profile Picture" className="w-1/4 md:w-1/2 rounded-lg border-8 border-light shadow-lg transform scale-110"></img>
       </section>
     
     </section>
@@ -100,27 +100,27 @@ const App = () => (
  
           <section className="flex items-center gap-2 w-1/4">
               <p className="">Python</p>
-              <img src="/rafaromo23.github.io/public/pythonIcon.png" alt="pythonIcon" className="h-12 w-12"></img>
+              <img src="/public/pythonIcon.png" alt="pythonIcon" className="h-12 w-12"></img>
             </section>
 
             <section className="flex items-center gap-3 w-1/4">
               <p className="">C</p>
-              <img src="/rafaromo23.github.io/public/CIcon.png" alt="CIcon" className="h-12 w-12"></img>
+              <img src="/public/CIcon.png" alt="CIcon" className="h-12 w-12"></img>
             </section>
             
             <section className="flex items-center gap-2 w-1/4">
               <p className="">Java</p>
-              <img src="/rafaromo23.github.io/public/javaIcon.png" alt="javaIcon" className="h-12 w-12"></img>
+              <img src="/public/javaIcon.png" alt="javaIcon" className="h-12 w-12"></img>
             </section>
 
             <section className="flex items-center gap-2 w-1/4">
               <p className="">JavaScript</p>
-              <img src="/rafaromo23.github.io/public/javascriptIcon.png" alt="javascriptIcon" className="h-12 w-12"></img>
+              <img src="/public/javascriptIcon.png" alt="javascriptIcon" className="h-12 w-12"></img>
             </section>
 
             <section className="flex items-center gap-2 w-1/4">
               <p className="">Flask</p>
-              <img src="/rafaromo23.github.io/public/flaskIcon.png" alt="FlaskIcon" className="h-12 w-12"></img>
+              <img src="/public/flaskIcon.png" alt="FlaskIcon" className="h-12 w-12"></img>
             </section>
 
           </section>
@@ -131,27 +131,27 @@ const App = () => (
 
             <section className="flex items-center gap-2 w-1/4">
               <p className="">HTML</p>
-              <img src="/rafaromo23.github.io/public/HTMLIcon.png" alt="HTMLIcon" className="h-12 w-12"></img>
+              <img src="/public/HTMLIcon.png" alt="HTMLIcon" className="h-12 w-12"></img>
             </section>
 
             <section className="flex items-center gap-2 w-1/4">
               <p className="">CSS</p>
-              <img src="/rafaromo23.github.io/public/CSSIcon.png" alt="CSSIcon" className="h-12 w-12"></img>
+              <img src="/public/CSSIcon.png" alt="CSSIcon" className="h-12 w-12"></img>
             </section>
 
             <section className="flex items-center gap-2 w-1/4">
               <p className="">Tailwind</p>
-              <img src="/rafaromo23.github.io/public/tailwindIcon.png" alt="TailwindIcon" className="h-12 w-12"></img>
+              <img src="/public/tailwindIcon.png" alt="TailwindIcon" className="h-12 w-12"></img>
             </section>
   
             <section className="flex items-center gap-2 w-1/4">
               <p className="">React</p>
-              <img src="/rafaromo23.github.io/public/reactIcon.png" alt="ReactIcon" className="h-12 w-12"></img>
+              <img src="/public/reactIcon.png" alt="ReactIcon" className="h-12 w-12"></img>
             </section>
 
             <section className="flex items-center gap-2 w-1/4">
               <p className="">MATLab</p>
-              <img src="/rafaromo23.github.io/public/matlabIcon.png" alt="MatLabIcon" className="h-12 w-12"></img>
+              <img src="/public/matlabIcon.png" alt="MatLabIcon" className="h-12 w-12"></img>
             </section>
 
           </section>
