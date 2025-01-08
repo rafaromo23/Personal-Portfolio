@@ -26,7 +26,7 @@ const App = () => (
           <h1 className="font-mont text-4xl py-6 md:text-6xl">Hello, I am Rafael Romo</h1>
           <p className="font-mont text-base md:text-xl">A computer science student at Columbia University</p>
           <p className="font-mont sm:max-md:text-sm">Here is my Resume:  
-            <button className="px-5 py-5"><a href="/Personal-Portfolio/public/RafaelRomo_Resume.pdf" target="_blank" 
+            <button className="px-5 py-5"><a href="/RafaelRomo_Resume.pdf" target="_blank" 
             className="inline-block bg-gradient-to-r from-darker to-lightest text-darkest py-1 px-4 md:py-3 md:px-8 rounded-xl text-sm md:text-lg font-semibold shadow-xl transition-all duration-300 ease-in-out transform hover:scale-105 hover:shadow-2xl hover:from-darker hover:to-lighter"> Resume</a></button>
           </p>
         </header>
@@ -35,7 +35,7 @@ const App = () => (
       {/* Right side */}
       <section className="flex w-full md:w-1/2 items-center justify-center bg-darkest">
         <header></header>
-        <img src="/Personal-Portfolio/public/LinkedInPicture.JPG" alt="Profile Picture" className="w-1/4 md:w-1/2 rounded-lg border-8 border-light shadow-lg transform scale-110"></img>
+        <img src="/LinkedInPicture.JPG" alt="Profile Picture" className="w-1/4 md:w-1/2 rounded-lg border-8 border-light shadow-lg transform scale-110"></img>
       </section>
     
     </section>
@@ -100,27 +100,27 @@ const App = () => (
  
           <section className="flex items-center gap-2 w-1/4">
               <p className="">Python</p>
-              <img src="/Personal-Portfolio/public/pythonIcon.png" alt="pythonIcon" className="h-12 w-12"></img>
+              <img src="/pythonIcon.png" alt="pythonIcon" className="h-12 w-12"></img>
             </section>
 
             <section className="flex items-center gap-3 w-1/4">
               <p className="">C</p>
-              <img src="/Personal-Portfolio/public/CIcon.png" alt="CIcon" className="h-12 w-12"></img>
+              <img src="/CIcon.png" alt="CIcon" className="h-12 w-12"></img>
             </section>
             
             <section className="flex items-center gap-2 w-1/4">
               <p className="">Java</p>
-              <img src="/Personal-Portfolio/public/javaIcon.png" alt="javaIcon" className="h-12 w-12"></img>
+              <img src="/javaIcon.png" alt="javaIcon" className="h-12 w-12"></img>
             </section>
 
             <section className="flex items-center gap-2 w-1/4">
               <p className="">JavaScript</p>
-              <img src="/Personal-Portfolio/public/javascriptIcon.png" alt="javascriptIcon" className="h-12 w-12"></img>
+              <img src="/javascriptIcon.png" alt="javascriptIcon" className="h-12 w-12"></img>
             </section>
 
             <section className="flex items-center gap-2 w-1/4">
               <p className="">Flask</p>
-              <img src="/Personal-Portfolio/public/flaskIcon.png" alt="FlaskIcon" className="h-12 w-12"></img>
+              <img src="/flaskIcon.png" alt="FlaskIcon" className="h-12 w-12"></img>
             </section>
 
           </section>
@@ -131,27 +131,27 @@ const App = () => (
 
             <section className="flex items-center gap-2 w-1/4">
               <p className="">HTML</p>
-              <img src="/Personal-Portfolio/public/HTMLIcon.png" alt="HTMLIcon" className="h-12 w-12"></img>
+              <img src="/HTMLIcon.png" alt="HTMLIcon" className="h-12 w-12"></img>
             </section>
 
             <section className="flex items-center gap-2 w-1/4">
               <p className="">CSS</p>
-              <img src="/Personal-Portfolio/public/CSSIcon.png" alt="CSSIcon" className="h-12 w-12"></img>
+              <img src="/CSSIcon.png" alt="CSSIcon" className="h-12 w-12"></img>
             </section>
 
             <section className="flex items-center gap-2 w-1/4">
               <p className="">Tailwind</p>
-              <img src="/Personal-Portfolio/public/tailwindIcon.png" alt="TailwindIcon" className="h-12 w-12"></img>
+              <img src="/tailwindIcon.png" alt="TailwindIcon" className="h-12 w-12"></img>
             </section>
   
             <section className="flex items-center gap-2 w-1/4">
               <p className="">React</p>
-              <img src="/Personal-Portfolio/public/reactIcon.png" alt="ReactIcon" className="h-12 w-12"></img>
+              <img src="/reactIcon.png" alt="ReactIcon" className="h-12 w-12"></img>
             </section>
 
             <section className="flex items-center gap-2 w-1/4">
               <p className="">MATLab</p>
-              <img src="/Personal-Portfolio/public/matlabIcon.png" alt="MatLabIcon" className="h-12 w-12"></img>
+              <img src="/matlabIcon.png" alt="MatLabIcon" className="h-12 w-12"></img>
             </section>
 
           </section>
